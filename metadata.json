@@ -1,0 +1,7 @@
+{
+  "name": "Hôm Nay Ăn Gì - Ăn Gì Đây Ta",
+  "description": "Ứng dụng giúp bạn chọn món ăn quán ngon lành, nhanh chóng khi không biết hôm nay ăn gì với tính năng Ăn gì đây ta và khám phá 50 món quán chuẩn vị.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
